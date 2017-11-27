@@ -1,0 +1,22 @@
+{
+  "name": "fornodes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bwitoradyo/Fornodes.git"
+  },
+  "author": "Bwitoradyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bwitoradyo/Fornodes/issues"
+  },
+  "homepage": "https://github.com/Bwitoradyo/Fornodes#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
